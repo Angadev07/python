@@ -1,0 +1,11 @@
+Enter your accound number: 1
+Enter account owner name: angadev
+Choose the account type 
+1.SAVINGS 2.CURRENT 3.FIXED2
+enter account balance:200
+select your option 
+1.Withdrawal 2.Deposit 
+type 1 or 2:2
+Enter the amount: 200
+Amount 200 is credited on your account 1.
+Avaialable balance: 400
